@@ -1,0 +1,24 @@
+{
+  "CurrentProjectSetting": {
+    "intelephense.environment.includePaths": [],
+    "intelephense.diagnostics.enable": true,
+    "intelephense.files.exclude": [
+      "**/.git/**",
+      "**/node_modules/**",
+      "**/vendor/**/tests/**"
+    ],
+    "intelephense.files.maxMemory": 4096,
+    "editor.suggest.show": {
+      "functions": true,
+      "variables": true,
+      "classes": true,
+      "methods": true,
+      "keywords": true,
+      "snippets": false,
+      "folders": false,
+      "files": false,
+      "issues": false,
+      "color": false
+    }
+  }
+}
